@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Victor Gonçalves
-- 👀 I’m interested in Game Dev programming
-- 🌱 I’m currently learning Game Dev
+- 👀 I’m interested in Game Dev
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Game Dev projects as a programmer
 - 📫 How to reach me: victor.andres.goncalves@gmail.com
 
